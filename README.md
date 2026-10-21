@@ -39,9 +39,9 @@ permalink: /
 
 سورس‌کدها و تمپلیت‌های معماری این آزمایشگاه بر پایه اصول و نقشه‌های راه مهندسی زیر توسعه داده می‌شوند:
 
-* 📱 **نقشه راه جامع توسعه:** راهنمای گام‌به‌گام یادگیری و تسلط بر استک مدرن در مقاله **[آموزش برنامه نویسی اندروید](https://vahidhoseini.ir/blog/android-programming-complete-roadmap-guide)**.
-* 🏛️ **کالبدشکافی معماری تمیز:** تحلیل عمیق تفکیک لایه‌ها، جریان داده یک‌طرفه (UDF) و اصول SOLID در راهنمای **[معماری تمیز در اندروید](https://vahidhoseini.ir/blog/clean-architecture-scalable-systems-guide)**.
-* 🎨 **واسط کاربری واکنشی:** الگوهای طراحی کامپوز و سیستم‌های طراحی مدرن در راهنمای **[توسعه رابط کاربری با Jetpack Compose](https://vahidhoseini.ir/blog/jetpack-compose-modern-android-ui-complete-guide)**.
+* 📱 **نقشه راه جامع توسعه:** راهنمای گام‌به‌گام یادگیری و تسلط بر استک مدرن در مقاله **[آموزش برنامه نویسی اندروید](https://vahidhoseini.ir/android-programming-complete-roadmap-guide)**.
+* 🏛️ **کالبدشکافی معماری تمیز:** تحلیل عمیق تفکیک لایه‌ها، جریان داده یک‌طرفه (UDF) و اصول SOLID در راهنمای **[معماری تمیز در اندروید](https://vahidhoseini.ir/clean-architecture-scalable-systems-guide)**.
+* 🎨 **واسط کاربری واکنشی:** الگوهای طراحی کامپوز و سیستم‌های طراحی مدرن در راهنمای **[توسعه رابط کاربری با Jetpack Compose](https://vahidhoseini.ir/jetpack-compose-modern-android-ui-complete-guide)**.
 
 ---
 
