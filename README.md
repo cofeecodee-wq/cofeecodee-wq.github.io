@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "CoffeeCodee | Open-Source Android & Mobile Engineering Lab"
 description: "پایگاه تخصصی سورس‌کدهای پروداکشن، بویلرپلیت‌های معماری و الگوهای مهندسی نرم‌افزار اندروید"
+permalink: /
 ---
 
 # ☕ CoffeeCodee (`cofeecodee`)
